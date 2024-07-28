@@ -1,0 +1,76 @@
+Index: 0
+Caption: ER expression in tumor tissue. IHC staining, original
+UUID: 3f93c716-8fc9-42e9-bc29-bec52a51ab4b
+
+Question: What could be the coloration of the ER expression in the tumor tissue?
+Answer: In an immunohistochemistry (IHC) stained image, ER expression could be visualized as brown coloration in the areas of the tumor tissue.
+
+Question: Where is the ER expression likely to be localized in the tumor tissue?
+Answer: The ER expression would typically be localized within the cells of the tumor tissue, possibly in the nucleus or cytoplasm.
+
+Question: What might be the size range of the tumor cells displaying ER expression?
+Answer: The size of the tumor cells could vary, but generally, they might be in the range of 10 to 30 micrometers.
+
+Question: What other structures might be identifiable in the image aside from the tumor tissue?
+Answer: Apart from the tumor tissue, the image might also show surrounding normal tissue, blood vessels, or other structures depending on the field of view.
+
+Question: Where might the ER-expressing tumor cells be in relation to other cells or structures in the image?
+Answer: The ER-expressing tumor cells could be interspersed among other non-ER expressing cells or they might be clustered together, depending on the characteristics of the tumor. They might also be adjacent to or surrounded by other structures such as blood vessels or normal tissue.
+
+Index: 1
+Caption: Nuclear expression of TS (brown) in a colon carcinoma
+UUID: 9fcdf1e1-139c-4b63-bf1a-79d83c71f41a
+
+Question: What color is the nuclear expression of TS in the image?
+Answer: The nuclear expression of TS is brown in the image.
+
+Question: What type of carcinoma is shown in the image?
+Answer: The image shows a colon carcinoma.
+
+Question: Where in the cell can TS expression be observed in this image?
+Answer: In this image, TS expression can be observed in the nucleus of the cell.
+
+Question: What is the dominant color in the area where TS is expressed in the image?
+Answer: The dominant color in the area where TS is expressed is brown.
+
+Question: Where in the body is the carcinoma located according to the image? 
+Answer: According to the image, the carcinoma is located in the colon.
+
+Index: 2
+Caption: Nuclear expression of E2F1 (brown) in a colon carcinoma. This is higher magnification of the upper portion of a core shown in an inset (lower left corner)
+UUID: 00f1ad7a-f4b0-4938-b874-089d40a123ce
+
+Question: What could be the color representation of E2F1 in the image?
+Answer: In the image, the color representation of E2F1 could be brown.
+
+Question: Where might the high magnification portion of the image be focused on?
+Answer: The high magnification portion of the image may focus on the upper part of a certain area, possibly revealing more detailed structures.
+
+Question: What type of tissue might be presented in the image?
+Answer: The image likely presents a specimen of colon tissue, possibly affected by carcinoma.
+
+Question: What could be located in the lower left corner of the image?
+Answer: The lower left corner of the image might contain an inset, possibly showing a wider or less magnified view of the main image.
+
+Question: What might be the general color scheme of the image, given that E2F1 is brown?
+Answer: The general color scheme of the image might contrast with the brown color of E2F1, possibly using lighter colors for the background or other structures to highlight the brown E2F1 expression.
+
+Index: 3
+Caption: Cytoplasmic immunoexpression of PD-L1 in oral squamous cell carcinomas with poorer prognosis (OSCCPP). Immunohistochemistry. Total magnification x100
+UUID: 9d3aef30-7c8b-4b78-9acf-ec523f952650
+
+Question: What is the main feature being highlighted in the image?
+Answer: The main feature being highlighted in the image is the cytoplasmic immunoexpression of PD-L1 in oral squamous cell carcinomas.
+
+Question: Where in the cell could we expect to see PD-L1 immunoexpression?
+Answer: We could expect to see PD-L1 immunoexpression in the cytoplasm of the cell.
+
+Question: What might the overall texture or pattern of the image look like, considering it's a pathology slide?
+Answer: The image might have a complex pattern with cells varying in size and shape, with some areas appearing darker indicating the PD-L1 immunoexpression.
+
+Question: What type of magnification might be used in this image?
+Answer: The image might use a total magnification of around x100, allowing us to see the cellular details clearly.
+
+Question: Where in the body are the cells being examined likely to be located?
+Answer: The cells being examined are likely to be located in the oral region, as the image is of oral squamous cell carcinomas.
+
