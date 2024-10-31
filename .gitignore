@@ -1,7 +1,9 @@
 data/*
 api.key
 *.out
-arch-open-evaluation/*
+arch-open/evaluation_data/arch-open-evaluation/*
+path-vqa/evaluation_data/pvqa_evaluation/*
+histocartography
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -112,13 +114,14 @@ venv.bak/
 .vscode/
 
 #data and tests
-data/
-mlruns/
-tmp/
+histocartography/data/
+histocartography/mlruns/
+histocartography/tmp/
 *.tif
 *.xml
 *.png
 *.hdf5
 .DS_Store
-checkpoints
+histocartography
 .travis.yml
+*.pyc
